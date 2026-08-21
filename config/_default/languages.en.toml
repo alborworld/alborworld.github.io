@@ -1,0 +1,23 @@
+disabled = false
+locale = "en"
+label = "English"
+weight = 1
+title = "AlborWorld"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  description = "Cloud platform engineering, CI/CD and automation — notes and writing by Alessandro Bortolussi."
+  copyright = "© AlborWorld"
+
+[params.author]
+  name = "Alessandro Bortolussi"
+  image = "img/author.png"
+  imageQuality = 96
+  headline = "Platform &nbsp;&bull;&nbsp; CI/CD &nbsp;&bull;&nbsp; Automation"
+  links = [
+    { linkedin = "https://linkedin.com/in/alessandrobortolussi" },
+    { github = "https://github.com/alborworld" },
+  ]
